@@ -1,2 +1,4 @@
 # arielcami.github.io
-Diseño de Páginas Web
+Página de pruebas del estudiante: Ariel Camilo
+
+Gracias por clickear el Link!!
