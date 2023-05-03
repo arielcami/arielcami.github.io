@@ -7,7 +7,9 @@ function go(sel) {
     window.location.href = "Registro.html";
   }
   else if (sel == 3) {
+    window.location.href = "Ok.html";
+  }
+  else if (sel == 4) {
     window.location.href = "Menu.html";
   }
-
 }
