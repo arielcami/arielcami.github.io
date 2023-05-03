@@ -14,13 +14,19 @@ body h2{
     text-shadow: 0px 0px 10px #ff0000;
 }
 body h3{
-    color: #000000;
+    color: #ff0000;
     font-family: 'Trebuchet MS', sans-serif;
     text-shadow: 0px 0px 10px #ff0000;
 }
 
-body img{
+#img1 {
     border-radius: 15px;
+}
+
+#img2 {
+    border-radius: 5px;
+    margin-left: 150px;
+    opacity: 0.4;
 }
 
 .boton_acceder, .boton_registrar, .boton_crearcuenta{
